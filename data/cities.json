@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "9069",
+      "cityName": "Carrascal de Barregas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-24T11:09:58.202Z",
+      "notes": "sad",
+      "position": {
+        "lat": "40.98265011143383",
+        "lng": "-5.888671875"
+      }
+    },
+    {
+      "id": "4027",
+      "cityName": "Toulouse",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-04-24T13:43:31.972Z",
+      "notes": "",
+      "position": {
+        "lat": "43.578818966714785",
+        "lng": "1.3842773437500002"
+      }
+    },
+    {
+      "id": "9ed1",
+      "cityName": "Chamusca",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-04-24T13:43:43.020Z",
+      "notes": "",
+      "position": {
+        "lat": "39.4111585025559",
+        "lng": "-8.415527343750002"
+      }
+    },
+    {
+      "id": "461f",
+      "cityName": "Horcajo de los Montes",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-04-24T13:44:16.568Z",
+      "notes": "",
+      "position": {
+        "lat": "39.438228302176896",
+        "lng": "-4.658203125000001"
+      }
+    },
+    {
+      "id": "ef36",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-04-24T17:25:43.276Z",
+      "notes": "hi",
+      "position": {
+        "lat": "48.846288062058214",
+        "lng": "2.356301268187524"
+      }
+    }
+  ]
+}
